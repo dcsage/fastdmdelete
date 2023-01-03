@@ -12,5 +12,6 @@ this is very simple, more sophisticated versions + tools coming soon <3
 #key
 
 - DM means Deleted Messages
+- 
+![image](https://user-images.githubusercontent.com/111445449/210318289-8bbab798-9c8f-438d-a448-ca16127b8e0b.png)
 
-[Image](https://media.discordapp.net/attachments/1059740713392279582/1059740868245983233/image.png?width=825&height=670)
