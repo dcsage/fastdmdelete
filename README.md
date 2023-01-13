@@ -1,3 +1,8 @@
+# Update soon
+
+- i will be updating this code soon
+
+
 # fastdmdelete
 Fastest DM deleter on discord with slim and delicious UI
 
