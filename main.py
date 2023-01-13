@@ -1,9 +1,6 @@
 # enjoy
 import threading
-import json
-import os
 import random
-import time
 import asyncio
 import discord
 from discord.ext import commands
@@ -22,6 +19,9 @@ sem = asyncio.Semaphore(MAX_CONCURRENT_TASKS)
 
 intents = discord.Intents.default()
 intents.members = True
+
+# intents.presences = True | CHANGE THIS IF YOU HAVE PRESENCE INTENTS FOR SPEEDY LOGIN
+
 client = commands.AutoShardedBot(command_prefix=commands.when_mentioned, owner_id =108731110833283072 , intents=intents)
 client.remove_command('help')
 
