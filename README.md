@@ -1,6 +1,6 @@
-# Update soon
+# LATEST UPDATE
 
-- i will be updating this code soon
+- Added GUILESS code for low-end PCS ( Fast asf )
 
 
 # fastdmdelete
